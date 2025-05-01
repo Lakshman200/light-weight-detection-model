@@ -25,7 +25,7 @@ To build and evaluate a lightweight, fast YOLOv5-based object detection model op
 
 ## 📈 Output
 
-![Training Metrics](report.png)
+![Training Metrics](Report.png)
 
 This graph shows how each metric evolves over the course of training, helping evaluate convergence and generalization performance.
 
