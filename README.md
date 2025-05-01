@@ -1,4 +1,4 @@
-# Light Weight Detection Model
+# Light Weight object Detection Model
 
 This project is a collaborative effort between [@Lakshman200](https://github.com/Lakshman200) and [@friend_username](https://github.com/friend_username), aimed at developing and visualizing the training performance of a lightweight object detection model using YOLOv5.
 
