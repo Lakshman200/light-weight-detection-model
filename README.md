@@ -35,9 +35,3 @@ This graph shows how each metric evolves over the course of training, helping ev
 - pandas
 - matplotlib
 
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Lakshman200/light-weight-detection-model.git
-   cd light-weight-detection-model
