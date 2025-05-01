@@ -9,10 +9,9 @@ To build and evaluate a lightweight, fast YOLOv5-based object detection model op
 ## 📁 Files Included
 
 - `light-weight-detection.ipynb`: Jupyter Notebook that loads YOLOv5 training logs and visualizes key metrics.
-- `results.png`: A saved plot showing training performance across epochs.
+- `Report.png`: A saved plot showing training performance across epochs.
 - `results.csv`: (Optional) CSV log file containing training metrics exported by YOLOv5.
-- `.gitignore`: Ensures unnecessary temp and cache files are not committed.
-
+  
 ## 📊 Metrics Visualized
 
 - Box Loss (`train/box_loss`)
